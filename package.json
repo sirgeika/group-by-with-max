@@ -1,0 +1,33 @@
+{
+  "name": "group-by-with-max",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sirgeika/group-by-with-max.git"
+  },
+  "keywords": [
+    "group-by",
+    "max"
+  ],
+  "files": [
+    "index.js"
+  ],
+  "author": "Sergey Ledyankin <sirgeika@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sirgeika/group-by-with-max/issues"
+  },
+  "homepage": "https://github.com/sirgeika/group-by-with-max#readme",
+  "dependencies": {
+    "group-by-with": "1.0.1"
+  },
+  "devDependencies": {
+    "chai": "4.3.6",
+    "mocha": "10.0.0"
+  }
+}
